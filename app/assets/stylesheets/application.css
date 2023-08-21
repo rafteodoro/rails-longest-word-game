@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .btn-custom{
+  width: 75px;
+  height: 75px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#btn{
+  font-size: 26px;
+  font-weight: bold;
+}
